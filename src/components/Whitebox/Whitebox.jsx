@@ -1,5 +1,5 @@
 import  './whitebox.css'
-import Bluebox from '../Bluebox/bluebox'
+import Bluebox from '../Bluebox/Bluebox'
 import Textbox from '../Textbox/Textbox'
 
 const Whitebox = () => {
